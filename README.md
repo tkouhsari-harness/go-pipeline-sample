@@ -1,4 +1,4 @@
-# Go Sample Pipelines in Harness Update2
+# Go Sample Pipelines in Harness Update3
 
 Introduction
 ========================
